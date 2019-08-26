@@ -1,0 +1,2 @@
+# ezber
+İngilizce kelime ezberleme
